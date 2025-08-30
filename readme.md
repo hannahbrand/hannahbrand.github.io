@@ -4,12 +4,10 @@ Currently, I'm working on:
 
 - Building an externally-bootable operating system for mobile devices. This project aims to enable users in hostile environments to circumvent censorship, guaranteeing encrypted persistent storage and leaving no trace on their personal mobile device. This work is part of a practicum with the TU Darmstadt's PeaSec lab - learn more at peasec.de.
 
-- Helping expand freifunk (non-commercial free WLAN initiative: freifunk.net)
-
 - Self-hosting a more substantial site :)
 
 You can also find me at:
 
-[Mastodon](https://defcon.social/@hbrand)
+[Mastodon](https://defcon.social/@hbrand) 
 
 [Linkedin](https://uk.linkedin.com/in/hannah-brand) (be warned, I check this about 3x/year)
