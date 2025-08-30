@@ -1,9 +1,15 @@
-Hi! I'm a current graduate student at TU Darmstadt, studying cybersecurity. I have a strong interest in open-source and security for civic infrastructure.
+Hi! I'm a current graduate student at TU Darmstadt, studying cybersecurity. I have a strong interest in open-source and security for civic infrastructure. My background is primarily in cloud vulnerability research at Microsoft, where I worked for 6 years prior to starting grad school. 
 
 Currently, I'm working on:
 
 -> Building an externally-bootable operating system for mobile devices. This project aims to enable users in hostile environments to circumvent censorship, guaranteeing encrypted persistent storage and leaving no trace on their personal mobile device. This work is part of a practicum with the TU Darmstadt's PeaSec lab - learn more at peasec.de.
 
--> Administering a FreiFunk node (non-commercial free WLAN initiative: freifunk.net)
+-> Helping expand freifunk (non-commercial free WLAN initiative: freifunk.net)
 
--> Self-hosting a more substantial and secure site :)
+-> Self-hosting a more substantial site :)
+
+You can also find me at:
+
+https://defcon.social/@hbrand (Mastodon)
+
+https://uk.linkedin.com/in/hannah-brand (be warned, I check this about 3x/year)
