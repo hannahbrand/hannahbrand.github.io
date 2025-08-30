@@ -10,6 +10,6 @@ Currently, I'm working on:
 
 You can also find me at:
 
-https://defcon.social/@hbrand (Mastodon)
+[Mastodon](https://defcon.social/@hbrand)
 
-https://uk.linkedin.com/in/hannah-brand (be warned, I check this about 3x/year)
+[Linkedin](https://uk.linkedin.com/in/hannah-brand) (be warned, I check this about 3x/year)
