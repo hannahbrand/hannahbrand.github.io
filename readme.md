@@ -1,4 +1,4 @@
-Hi! I'm a current graduate student at TU Darmstadt, studying cybersecurity. I have a strong interest in open-source and security for civic infrastructure. My background is primarily in cloud vulnerability research at Microsoft, where I worked for 5 years prior to starting grad school. (Actually, 5 years 7 months and 7 days, but you don't need to know that).
+Hi! I'm a current graduate student at TU Darmstadt, studying cybersecurity. I have a strong interest in open-source and security for civic infrastructure. My background is primarily in cloud vulnerability research at Microsoft, where I worked for 5 years prior to starting grad school.
 
 Currently, I'm working on:
 
